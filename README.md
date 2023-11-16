@@ -24,10 +24,6 @@ I'm a passionate programmer with a focus on web development. My expertise lies i
 - Advanced Django Concepts
 - Full-Stack Development
 
-## 📊 GitHub Stats
-
-[![Bilbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilbisebastian&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/bilbisebastian)
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bilbisebastian/)

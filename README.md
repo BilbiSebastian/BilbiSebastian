@@ -37,7 +37,8 @@ I'm a passionate programmer with a focus on web development. My expertise lies i
 - [Blogging WebSite](https://github.com/BilbiSebastian/blogproject) - The Blogging Platform is a web-based application developed using Python Django, designed to provide a versatile and user-friendly environment for creating, managing, and sharing blog content.
 
 - [Online Examination System](https://github.com/BilbiSebastian/OnlineExam) - The Online Examination System is a web-based platform developed using Python Django, designed to facilitate the efficient management and conduct of exams over the internet.
-- [Project 3](URL_TO_PROJECT) - Short description
+- [Resource Allocator](URL_TO_PROJECT) - The Resource Allocator is a comprehensive web-based application developed using Python Django, specifically designed for efficiently managing and allocating resources.
+
 
 ## 📬 Let's Connect!
 
